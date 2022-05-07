@@ -8,7 +8,7 @@ I am a fullstack web developer with extensive experience in agile methodologies 
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [buraschi.mateo@gmail.com](mailto:buraschi.mateo@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Java
 * ⚡  I have a master's degree in sociology.
 
 ### Skills
