@@ -40,3 +40,25 @@ I am a fullstack web developer with extensive experience in agile methodologies 
 <a href="http://www.github.com/matiob"><img src="https://github-readme-stats.vercel.app/api?username=matiob&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="matiob's GitHub stats" /></a>
 
 <a href="http://www.github.com/matiob"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matiob&stroke=facc15&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+
+<div align="center" dir="auto">
+<h2 dir="auto"><a id="user-content-hey-im-dino-wave" class="anchor" aria-hidden="true" href="#hey-im-dino-wave"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hey, I'm Dino <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji></h2>
+<div id="user-content-header" align="center" dir="auto">
+<div id="user-content-badges" dir="auto">
+<a href="https://www.linkedin.com/in/dino-cres/?locale=en_US" rel="nofollow">
+<img src="https://camo.githubusercontent.com/e0278098417dddf9727cfee70a5eb84af38a20705b3bded56cf91cb5feb29d7d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="mailto:crescimbenidino@gmail.com">
+<img src="https://camo.githubusercontent.com/0f726379066e1e8a49240c0e0a96aa889eba644dfe02ae9669a44a1261a5863b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656d61696c2d7265643f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="Email Badge" data-canonical-src="https://img.shields.io/badge/email-red?logo=gmail&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
+</a>
+<a href="https://twitter.com/dinocres1" rel="nofollow">
+<img src="https://camo.githubusercontent.com/b00ee237784dbf7849cba7c16d4442a73a94fb3fe1928efb79ef3163089c720e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width: 100%;">
+</a>
+</div>
+</div>
+<div align="left" dir="auto">
+I’m a full stack web developer from Argentina who delivers solutions using HTML, CSS, JavaScript, Node.js, Express, React, and SQL. I focus on being a valuable team member, actively listening to others’ ideas, helping whenever someone needs it, delivering the task promptly, and pushing the boundaries beyond expectations.
+<br>
+</div>
+</div>
