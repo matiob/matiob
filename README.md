@@ -15,11 +15,18 @@
 </a>
 </div>
 </div>
-<div align="left" dir="auto">
-I’m a full stack web developer from Argentina who delivers solutions using HTML, CSS, JavaScript, Node.js, Express, React, and SQL. I focus on being a valuable team member, actively listening to others’ ideas, helping whenever someone needs it, delivering the task promptly, and pushing the boundaries beyond expectations.
-<br>
 </div>
-</div>
+
+FullStack Developer
+-------------------
+
+I am a fullstack web developer with extensive experience in agile methodologies and high pedagogical and sociological knowledge.
+
+* 🌍  I'm based in Argentina
+* ✉️  You can contact me at [buraschi.mateo@gmail.com](mailto:buraschi.mateo@gmail.com)
+* 🧠  I'm learning Java
+* ⚡  I have a master's degree in sociology.
+
 <h2 dir="auto"><a id="user-content-languages-libraries-and-tools" class="anchor" aria-hidden="true" href="#languages-libraries-and-tools"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Languages, libraries and tools</h2>
 <div align="center" dir="auto">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -43,16 +50,6 @@ I’m a full stack web developer from Argentina who delivers solutions using HTM
 C# || JavaScript || HTML5 || React || CSS3 || Sass || Redux || Express || Sequelize || MongoDB || PostgreSQL || Firebase || .NET || SQL || Docker
 </div>
 <hr>
-
-FullStack Developer
--------------------
-
-I am a fullstack web developer with extensive experience in agile methodologies and high pedagogical and sociological knowledge.
-
-* 🌍  I'm based in Argentina
-* ✉️  You can contact me at [buraschi.mateo@gmail.com](mailto:buraschi.mateo@gmail.com)
-* 🧠  I'm learning Java
-* ⚡  I have a master's degree in sociology.
 
 ### Socials
 
