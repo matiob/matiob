@@ -42,7 +42,7 @@ I am a fullstack web developer with extensive experience in agile methodologies 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 <a href="https://www.microsoft.com/es-es/sql-server/" target="_blank" rel="noreferrer"><img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" width="36" height="36" alt="SQL" /></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.docker.com"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <div align="center" dir="auto">
 C# || JavaScript || HTML5 || React || CSS3 || Sass || Redux || Express || Sequelize || MongoDB || PostgreSQL || Firebase || .NET || SQL || Docker
