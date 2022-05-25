@@ -40,12 +40,9 @@ I’m a full stack web developer from Argentina who delivers solutions using HTM
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"><img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40" style="max-width: 100%;"></a>
 </div>
 <div align="center" dir="auto">
-React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 || Redux || Mocha || Jest || Figma || Socket.io || Heroku || Jira
+C# || JavaScript || HTML5 || React || CSS3 || Sass || Redux || Express || Sequelize || MongoDB || PostgreSQL || Firebase || .NET || SQL || Docker
 </div>
 <hr>
-
-Hi 👋 My name is Mateo Buraschi Pire
-====================================
 
 FullStack Developer
 -------------------
